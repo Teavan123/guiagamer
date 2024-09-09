@@ -39,12 +39,5 @@ Se você quiser melhorar o Guia Gamer, fique à vontade para fazer um fork do re
 
 **#guiaGamer #game #desenvolvimentoweb #JavaScript**
 
-**Observações:**
+**Esse projeto foi desenvolvido na imersão DEV com Google Gemini da Alura**
 
-* **Adapte à sua realidade:** Ajuste o README para refletir as características específicas do seu projeto, como tecnologias adicionais, funcionalidades exclusivas e informações de contato.
-* **Adicione imagens:** Use imagens para ilustrar o README e torná-lo mais visualmente atraente.
-* **Seja claro e conciso:** Use uma linguagem simples e direta para que qualquer pessoa, mesmo sem conhecimentos técnicos aprofundados, possa entender o projeto.
-* **Use emojis:** Emojis ajudam a tornar o README mais divertido e fácil de ler.
-* **Incentive a colaboração:** Deixe claro que você está aberto a contribuições e sugestões.
-
-**Lembre-se:** O README é a porta de entrada para o seu projeto. Um README bem escrito pode atrair mais pessoas para contribuírem e utilizarem sua aplicação.
